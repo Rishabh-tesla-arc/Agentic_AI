@@ -92,5 +92,5 @@ Technologies used in the project:
 *   Phidata - AI framework for intelligent agent development
 *   Groq AI Models - Powers natural language and image processing tasks
 *   DuckDuckGo Search API - Retrieves web-based information
-*   ahoo Finance API - Provides real-time stock market data
+*   Yahoo Finance API - Provides real-time stock market data
 *   uv - Environment and dependency management
