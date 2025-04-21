@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Rishabh-tesla-arc/Agentic_AI/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">AgenticAI is an AI-powered system that leverages Phidata Groq models and various AI tools to automate web search financial analysis and image recognition. It integrates multiple agents to perform specialized tasks efficiently making it a robust solution for AI-driven applications.<br>
+<p id="description">AgenticAI is an AI-powered system that leverages Phidata Groq models and various AI tools to automate web search, financial analysis, image recognition, and multi-agent collaboration. It integrates multiple agents to perform specialized tasks efficiently, making it a robust solution for AI-driven applications.<br>
   
 The system includes: <br>
 * AI-powered web search for retrieving relevant information <br>
